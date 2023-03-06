@@ -1,11 +1,10 @@
 ![MasterHead](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/11/UniversalCoverings_2880x1220.gif)
 <h1 align="center">Hi, I'm Alan Nadelsticher</h1>
-<h3 align="center">An innovative and diligent software engineer, developer, cloud architect, and data scientist.</h3>
+<h3 align="center">An innovative and diligent Software Engineer, Developer, Cloud Architect, and Data Scientist.</h3>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="400" height="300" align="right" />
 
-
-
-<p align=lefy"> <img src="https://komarev.com/ghpvc/?username=alannadels&label=Profile%20views&color=0e75b6&style=flat" alt="alannadels" /> </p>
+- 🌱 Certified in: **Amazon Web Services, Google Cloud, Microsoft Azure**
+- 📫 Reach me at: **alannmoco@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
