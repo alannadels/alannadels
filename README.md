@@ -3,7 +3,7 @@
 <h3 align="center">An innovative and diligent Software Engineer, Developer, Cloud Architect, and Data Scientist.</h3>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="400" height="300" align="right" />
 
-- 🔭 My Portfolio: **alannadels.me**
+- 🔭 My Portfolio: www.alannadels.me
 - 📫 Reach me at: **alannmoco@gmail.com**
 - 🌱 Certified in: **Amazon Web Services, Google Cloud, Microsoft Azure**
 
